@@ -1,5 +1,5 @@
 import styles from './style' // Import all styles from style.js
-import {Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer} from './components' // Import all components from components folder
+import {Navbar, Hero, Stats, Business, Billing, CardDeal, Testimonials, Clients, CTA, Footer} from './Components' // Import all components from components folder
 
 const App = () => (
   <div className="bg-primary w-full overflow-hidden">
